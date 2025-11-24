@@ -1,0 +1,18 @@
+# environment
+.venv/
+env/
+venv/
+__pycache__/
+
+# OS files
+.DS_Store
+
+# Streamlit internal
+.streamlit/secrets.toml
+
+# api keys
+.env
+
+# faiss index or local vector stores
+faiss_index/
+indexed_data/
