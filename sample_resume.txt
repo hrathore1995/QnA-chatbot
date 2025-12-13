@@ -1,0 +1,44 @@
+Name: Sarah Thompson
+Location: Seattle, WA
+Email: sarah.thompson@example.com
+
+Phone: 555-123-4567
+
+Professional Summary
+Product Manager with 4 years of experience delivering customer focused digital products. Skilled in roadmap planning, user research, cross functional collaboration, agile development and data driven decision making. Known for improving product adoption, increasing feature engagement and guiding engineering teams through successful releases.
+
+Work Experience
+
+Product Manager
+NovaTech Solutions
+June 2021 to Present
+Led the end to end lifecycle for a workflow automation platform used by over 50 enterprise clients. Defined product roadmap, gathered requirements and conducted user research interviews. Partnered with engineering and design to launch six major features that increased customer retention by 18 percent. Implemented analytics dashboards to measure feature performance and identify areas for improvement. Collaborated with sales and marketing to position new releases and support customer onboarding.
+
+Associate Product Manager
+BrightSoft Innovations
+July 2019 to May 2021
+Supported senior PMs by writing user stories, prioritizing backlogs and facilitating sprint planning. Conducted competitive analysis to improve product positioning. Helped launch a new onboarding flow that reduced activation time by 30 percent. Coordinated with QA to validate features before release and performed post release analysis to evaluate success metrics.
+
+Education
+Bachelor of Science in Information Systems
+University of California, Irvine
+Graduated 2019
+
+Skills
+Product strategy
+User research
+Agile methodology
+Data analysis
+A B testing
+Roadmap planning
+SQL and Tableau
+PRD and user story writing
+Cross functional collaboration
+
+Projects
+Developed a customer segmentation model using product usage data to identify high value cohorts. Insights informed the roadmap and improved upsell conversion by 14 percent.
+Designed and tested an in app survey system to capture real time feedback and reduce customer churn.
+
+Certifications
+Certified Scrum Product Owner
+Product Analytics Certification from Product School
